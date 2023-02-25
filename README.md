@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Data-Analysis
 
-#### The objective of this assignment is to build a predictive model that can predict customer churn for a given company and use machine learning techniques to build the model and document the process, including feature selection, model evaluation, and performance metrics.
+#### The objective of this project is to build a predictive model that can predict customer churn for a given company and use machine learning techniques to build the model and document the process, including feature selection, model evaluation, and performance metrics.
 
 [Dataset link](https://www.kaggle.com/competitions/bank-marketing-uci/overview)
 
